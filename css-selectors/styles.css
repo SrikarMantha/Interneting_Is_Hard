@@ -16,6 +16,10 @@
   margin: 20px auto;
 }
 
+#button-2 {
+  color: #5D6063;  /* Dark gray */
+}
+
 p:last-of-type {
   margin-bottom: 50px;
 }
@@ -36,6 +40,9 @@ p:last-of-type {
 .button:visited:active {
   color: #FFF;
   background-color: #5995DA;  /* Blue */
+}
+#button-2 {
+  background-color: #D55C5F;
 }
 
 .call-to-action:link,
