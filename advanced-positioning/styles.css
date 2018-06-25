@@ -25,3 +25,9 @@ body {
 .item img {
   display: block;
 }
+
+.item-relative {
+  position: relative;
+  bottom: 30px;  /* Also you can use top and left instead of bottom and right but it'll alter the position */
+  right: 30px;   /* Also you can use negative values */
+}
