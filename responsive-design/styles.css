@@ -84,6 +84,11 @@
   height: 200px;
   order: 1;
 }
+
 .content {
   order: 2;
+}
+
+.illustration {
+  width: 100%;
 }
