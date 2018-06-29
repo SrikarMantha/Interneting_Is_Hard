@@ -267,3 +267,8 @@ strong {
 .monospace {
   font-family: 'Droid Sans Mono', monospace;
 }
+
+.never-both p {
+  text-indent: 1em;
+  margin-bottom: 1em;
+}
